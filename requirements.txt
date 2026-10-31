@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+psutil
+requests
+numpy
+sounddevice
+soundfile
+python-dotenv
+faster-whisper
